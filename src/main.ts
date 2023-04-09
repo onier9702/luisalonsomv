@@ -13,10 +13,6 @@ async function bootstrap() {
 
   app.setGlobalPrefix('/api');
 
-  // app.get('*', () => {
-  //   res.sendFile( path.resolve( __dirname, 'public/index.html' ) );
-  // })
-
   await app.listen(process.env.PORT, () => {
     console.log('App running on port: ',process.env.PORT );
   });

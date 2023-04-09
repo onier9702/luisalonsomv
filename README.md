@@ -4,6 +4,18 @@
 
 ## Obstetrician Assistant App
 
+## Installations
+
+1. Serve static content
+```
+npm install --save @nestjs/serve-static
+```
+
+2.
+```
+
+```
+
 # See app here
 
 https://alonsomv.com

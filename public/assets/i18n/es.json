@@ -1,0 +1,24 @@
+{
+    "menu": {
+        "lang": "Idioma",
+        "home": "Inicio",
+        "contact": "Contáctame",
+        "about": "Sobre Mi",
+        "services": "Servicios",
+        "gallery": "Galería",
+        "help": "Ayuda"
+    },
+    "home": {
+        "header_small": "Bienvenido",
+        "header": "Enfermero",
+        "header1": "Obstreta",
+        "header_title": "Asistente Obstreta",
+        "header_text": "Todo lo",
+        "header_text1": "relacionado al embarazo",
+        "header_text2": "aqui lo tienes !"
+       
+    },
+    "appointment": {
+        "title": "Agendar Cita"
+    }
+}

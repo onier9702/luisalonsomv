@@ -1,0 +1,25 @@
+
+{
+    "menu": {
+        "lang": "Language",
+        "home": "Home",
+        "contact": "Contact Me",
+        "about": "About Me",
+        "services": "Services",
+        "gallery": "Gallery",
+        "help": "Help"
+    },
+    "home": {
+        "header_small": "Welcome",
+        "header": "Obstetrician",
+        "header1": "Nurse",
+        "header_title": "Assistant Obstetrician",
+        "header_text": "All",
+        "header_text1": "related to pregnant",
+        "header_text2": "you get here !"
+       
+    },
+    "appointment": {
+        "title": "Schedule Appointment"
+    }
+}

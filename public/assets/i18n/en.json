@@ -34,7 +34,8 @@
         "name": "Name",
         "comment": "Comment",
         "btn_qualify": "Qualify Service",
-        "err": "please fill out all fields"
+        "err": "please fill out all fields",
+        "btn_recommendations": "See Recommendations"
        
     },
     "appointment": {

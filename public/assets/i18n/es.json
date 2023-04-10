@@ -33,7 +33,8 @@
         "name": "Nombre",
         "comment": "Comentario",
         "btn_qualify": "Calificar Servicio",
-        "err": "Necesita llenar los campos"
+        "err": "Necesita llenar los campos",
+        "btn_recommendations": "Ver Recomendaciones"
        
     },
     "appointment": {

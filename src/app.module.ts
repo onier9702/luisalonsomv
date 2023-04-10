@@ -13,7 +13,7 @@ import { AppService } from './app.service';
     ConfigModule.forRoot(), // this permit or allow to can use environment variables
 
     ServeStaticModule.forRoot({
-      rootPath: join( __dirname, '..' , '/public/index.html' ),
+      rootPath: join( __dirname, '..' , '/public' ),
     }),
 
     CommentsModule, AppointmentModule, 

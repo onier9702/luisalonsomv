@@ -10,7 +10,8 @@
         "help": "Help",
         "developer": "¿Who created this Web?",
         "appointment": "Schedule Appointment",
-        "advices": "Tips for pregnants"
+        "advices": "Tips for pregnants",
+        "courses": "Palmares Course"
     },
     "home": {
         "header_small": "Welcome",
@@ -35,7 +36,10 @@
         "comment": "Comment",
         "btn_qualify": "Qualify Service",
         "err": "please fill out all fields",
-        "btn_recommendations": "See Recommendations"
+        "btn_recommendations": "See Recommendations",
+        "btn_courses": "See Palmares Course",
+        "know_what": "Did you know ?",
+        "know_text": "We give free courses to all pregnant women who want to attend on certain dates. In these courses through a conference, dialogue and constant exchange we educate ourselves, learn and examine them."
        
     },
     "appointment": {
@@ -134,5 +138,11 @@
         "text6_4": "See candlesticks",
         "text6_5": "hear buzzing",
         "text6_6": "Feel suffocated"
+    },
+    "courses": {
+        "title": "Palmares Childbirth Preparation Course",
+        "phrase": "The professionalism of obstetricians is evident in their commitment to staying up-to-date with the latest medical advancements and techniques to ensure the safest and healthiest delivery possible",
+        "phrase1": "Obstetricians are not just medical professionals, but also confidants, counselors, and advocates for the health and well-being of both mother and child",
+        "phrase2": "Held in Palmares between April 15 and 22 at the College of Western Physicians"
     }
 }

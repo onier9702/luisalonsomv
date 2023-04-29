@@ -9,7 +9,8 @@
         "help": "Ayuda",
         "developer": "¿Quién creó esta web?",
         "appointment": "Agendar Cita",
-        "advices": "Consejos a Embarazadas"
+        "advices": "Consejos a Embarazadas",
+        "courses": "Curso Palmares"
     },
     "home": {
         "header_small": "Bienvenido",
@@ -34,7 +35,10 @@
         "comment": "Comentario",
         "btn_qualify": "Calificar Servicio",
         "err": "Necesita llenar los campos",
-        "btn_recommendations": "Ver Recomendaciones"
+        "btn_recommendations": "Ver Recomendaciones",
+        "btn_courses": "Ver Curso Palmares",
+        "know_what": "¿Sabías qué?",
+        "know_text": "Impartimos cursos gratuitos en determinadas fechas a todas las embarazadas que quieran asistir. En estos cursos mediante una conferencia, diálogo y constante intercambio nos educamos, aprendemos y las examinamos a ellas."
        
     },
     "appointment": {
@@ -133,6 +137,12 @@
         "text6_4": "Ver candelillas",
         "text6_5": "Escuchar zumbidos",
         "text6_6": "Sentir sofoco"
+    },
+    "courses": {
+        "title": "Curso Preparación para el Parto Palmares",
+        "phrase": "La profesionalidad de Los Obstetras es evidente en su compromiso de mantenerse al día con los últimos avances técnicos/médicos para garantizar el parto más seguro y saludable posible",
+        "phrase1": "Los obstetras no son solo profesionales médicos, sino también confidentes, consejeros y defensores de la salud y el bienestar de la madre y el niño",
+        "phrase2": "Realizado en Palmares entre el 15 y 22 de abril en El Colegio de Médicos Occidentes"
     }
     
 }

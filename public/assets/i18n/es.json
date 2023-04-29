@@ -38,7 +38,7 @@
         "btn_recommendations": "Ver Recomendaciones",
         "btn_courses": "Ver Curso Palmares",
         "know_what": "¿Sabías qué?",
-        "know_text": "Impartimos cursos gratuitos en determinadas fechas a todas las embarazadas que quieran asistir. En estos cursos mediante una conferencia, diálogo y constante intercambio nos educamos, aprendemos y las examinamos a ellas."
+        "know_text": "Impartimos cursos gratuitos en algunas fechas programadas, la cual les estaré enviando. En estos cursos preparamos a las embarazadas con muchas charlas y temas para que tengan un preparto, parto y posparto más exitoso. Así como una adecuada alimentación y cuidados del recién nacido."
        
     },
     "appointment": {
@@ -142,7 +142,7 @@
         "title": "Curso Preparación para el Parto Palmares",
         "phrase": "La profesionalidad de Los Obstetras es evidente en su compromiso de mantenerse al día con los últimos avances técnicos/médicos para garantizar el parto más seguro y saludable posible",
         "phrase1": "Los obstetras no son solo profesionales médicos, sino también confidentes, consejeros y defensores de la salud y el bienestar de la madre y el niño",
-        "phrase2": "Realizado en Palmares entre el 15 y 22 de abril en El Colegio de Médicos Occidentes"
+        "phrase2": "Realizado en Palmares entre el 15 y 22 de abril en El Colegio de Médicos de Occidente"
     }
     
 }

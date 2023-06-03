@@ -11,7 +11,8 @@
         "developer": "¿Who created this Web?",
         "appointment": "Schedule Appointment",
         "advices": "Tips for pregnants",
-        "courses": "Palmares Course"
+        "courses": "Palmares Course",
+        "sexual_conferences": "Adolescent Sexuality Conferences"
     },
     "home": {
         "header_small": "Welcome",
@@ -38,8 +39,10 @@
         "err": "please fill out all fields",
         "btn_recommendations": "See Recommendations",
         "btn_courses": "See Palmares Course",
+        "btn_conference": "Adolescent Sexuality Conference",
         "know_what": "Did you know ?",
-        "know_text": "We give free courses to all pregnant women who want to attend on certain dates. In these courses through a conference, dialogue and constant exchange we educate ourselves, learn and examine them."
+        "know_text": "We give free courses to all pregnant women who want to attend on certain dates. In these courses through a conference, dialogue and constant exchange we educate ourselves, learn and examine them.",
+        "know_text2": "Another contribution as an obstetrician I give in giving trainings such as talks on sexuality during adolescence aimed at adolescents between the ages of 12 and 19 in schools. In order to guide, train and raise awareness among adolescents about the risks of pregnancy during adolescence, the dangers of drug use, as well as instructing on how to avoid Sexually Transmitted Infections (STIs) and HIV / AIDS during adolescence."
        
     },
     "appointment": {
@@ -144,5 +147,8 @@
         "phrase": "The professionalism of obstetricians is evident in their commitment to staying up-to-date with the latest medical advancements and techniques to ensure the safest and healthiest delivery possible",
         "phrase1": "Obstetricians are not just medical professionals, but also confidants, counselors, and advocates for the health and well-being of both mother and child",
         "phrase2": "Held in Palmares between April 15 and 22 at the College of Western Physicians"
+    },
+    "conference": {
+        "title": "Adolescent Sexuality Conferences 2013-2023"
     }
 }

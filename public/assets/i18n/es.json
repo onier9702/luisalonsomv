@@ -10,7 +10,8 @@
         "developer": "¿Quién creó esta web?",
         "appointment": "Agendar Cita",
         "advices": "Consejos a Embarazadas",
-        "courses": "Curso Palmares"
+        "courses": "Curso Palmares",
+        "sexual_conferences": "Talleres Sexualidad Adolescentes"
     },
     "home": {
         "header_small": "Bienvenido",
@@ -37,8 +38,10 @@
         "err": "Necesita llenar los campos",
         "btn_recommendations": "Ver Recomendaciones",
         "btn_courses": "Ver Curso Palmares",
+        "btn_conference": "Taller Sexualidad Adolescente",
         "know_what": "¿Sabías qué?",
-        "know_text": "Impartimos cursos gratuitos en algunas fechas programadas, la cual les estaré enviando. En estos cursos preparamos a las embarazadas con muchas charlas y temas para que tengan un preparto, parto y posparto más exitoso. Así como una adecuada alimentación y cuidados del recién nacido."
+        "know_text": "Impartimos cursos gratuitos de preparación para el parto en algunas fechas programadas, la cual les estaré enviando. En estos cursos preparamos a las embarazadas con muchas charlas y temas para que tengan un preparto, parto y posparto más exitoso. Así como una adecuada alimentación y cuidados del recién nacido.",
+        "know_text2": "Otro aporte como obstetra lo doy en dar capacitaciones tipo charlas de sexualidad durante la adolescencia dirigido a adolescentes de edades entre los 12 y los 19 años en colegios. Con el objeto de orientar, capacitar y concientizar a los adolescentes acerca de los riesgos del embarazo durante la adolescencia, los peligros que conlleva el consumo de drogas, así como instruir en cómo evitar las Infecciones de Transmisión Sexual (ITS) y el VIH/SIDA durante la adolescencia."
        
     },
     "appointment": {
@@ -58,7 +61,7 @@
     },
     "developer": {
         "title": "Desarrollador",
-        "text": "Hola, mi nombre es Onier, soy Ingeniero de Telecomunicaciones y me dedico al desarrollo Web. Con mucho gusto ofrezco servicio a la web del negocio de tus sueños. Más info, haga clic a continuación"
+        "text": "Hola, mi nombre es Onier, soy Ingeniero en Telecomunicaciones y me dedico al desarrollo Web. Con mucho gusto ofrezco servicio a la web del negocio de tus sueños. Más info, haga clic a continuación"
     },
     "contact": {
         "title": "Contacto",
@@ -143,6 +146,9 @@
         "phrase": "La profesionalidad de Los Obstetras es evidente en su compromiso de mantenerse al día con los últimos avances técnicos/médicos para garantizar el parto más seguro y saludable posible",
         "phrase1": "Los obstetras no son solo profesionales médicos, sino también confidentes, consejeros y defensores de la salud y el bienestar de la madre y el niño",
         "phrase2": "Realizado en Palmares entre el 15 y 22 de abril en El Colegio de Médicos de Occidente"
+    },
+    "conference": {
+        "title": "Talleres Sexualidad Adolescentes 2013-2023"
     }
     
 }

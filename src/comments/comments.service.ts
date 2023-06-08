@@ -1,28 +1,63 @@
 import { Injectable } from '@nestjs/common';
 import { CreateCommentDto } from './dto/create-comment.dto';
-import { readFileSync, writeFileSync } from 'fs';
-import { Comment, Data } from './interfaces/comment.interface';
-import { join } from 'path';
+import { CommentObj, Data } from './interfaces/comment.interface';
+import { InjectRepository } from '@nestjs/typeorm';
+import { Comment } from './entities/comment.entity';
+import { Repository } from 'typeorm';
+
 
 @Injectable()
 export class CommentsService {
 
-  public pc = process.cwd(); // necessary to can read and write with fs
-  public url: string = join( this.pc, '/src/comments/database/comments.json');
+  constructor(
+    @InjectRepository(Comment)
+    private readonly commentRepository: Repository<Comment>,
+  ) {}
 
-  public comments: Comment[] = [];
+  async create(createCommentDto: CreateCommentDto): Promise<Data> {
 
-  create(createCommentDto: CreateCommentDto): Comment[] {
-    this.comments = this.findAll();
-    this.comments.unshift(createCommentDto);
-    const payload = { comments: this.comments  };
-    writeFileSync(this.url, JSON.stringify(payload));
-    return this.findAll();
+    const { text, author } = createCommentDto;
+
+    try {
+      
+      const createdComment = this.commentRepository.create({
+        comment: text,
+        user: author
+      })
+      await this.commentRepository.save(createdComment);
+      return await this.findAll();
+
+    } catch (error) {
+      console.log(error);
+    }
   }
 
-  findAll(): Comment[] {
-    const test = readFileSync( this.url, { encoding: 'utf-8'});
-    const data: Data = JSON.parse(test);
-    return data.comments;
+  async findAll(): Promise<Data> { 
+
+    try {
+
+      const comments = await this.commentRepository.createQueryBuilder('c')
+        .where({})
+        .orderBy('c.id', 'DESC')
+        .getMany();
+
+      let arrComments: CommentObj[] = [];
+
+      comments.forEach( comment => {
+        arrComments.push({
+          text: comment.comment,
+          author: comment.user
+        })
+      });
+
+      return {
+        comments: arrComments
+      }
+      
+    } catch (error) {
+      console.log(error);
+    }
+    
+
   }
 }

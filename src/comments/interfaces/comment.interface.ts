@@ -1,9 +1,9 @@
 
 export interface Data {
-    comments: Comment[];
+    comments: CommentObj[];
 }
 
-export interface Comment {
+export interface CommentObj {
     text: string;
     author?: string;
 }

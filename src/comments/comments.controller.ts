@@ -8,7 +8,6 @@ export class CommentsController {
 
   @Post()
   create(@Body() createCommentDto: CreateCommentDto) {
-    // return 'ok';
     return this.commentsService.create(createCommentDto);
   }
 

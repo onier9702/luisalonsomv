@@ -10,7 +10,7 @@
         "developer": "¿Quién creó esta web?",
         "appointment": "Agendar Cita",
         "advices": "Consejos a Embarazadas",
-        "courses": "Curso Palmares",
+        "courses": "Cursos",
         "sexual_conferences": "Talleres Sexualidad Adolescentes"
     },
     "home": {
@@ -37,7 +37,7 @@
         "btn_qualify": "Calificar Servicio",
         "err": "Necesita llenar los campos",
         "btn_recommendations": "Ver Recomendaciones",
-        "btn_courses": "Ver Curso Palmares",
+        "btn_courses": "Ver Cursos",
         "btn_conference": "Taller Sexualidad Adolescente",
         "know_what": "¿Sabías qué?",
         "know_text": "Impartimos cursos gratuitos de preparación para el parto en algunas fechas programadas, la cual les estaré enviando. En estos cursos preparamos a las embarazadas con muchas charlas y temas para que tengan un preparto, parto y posparto más exitoso. Así como una adecuada alimentación y cuidados del recién nacido.",
@@ -142,10 +142,11 @@
         "text6_6": "Sentir sofoco"
     },
     "courses": {
-        "title": "Curso Preparación para el Parto Palmares",
+        "title": "Cursos de Preparación para el Parto",
         "phrase": "La profesionalidad de Los Obstetras es evidente en su compromiso de mantenerse al día con los últimos avances técnicos/médicos para garantizar el parto más seguro y saludable posible",
         "phrase1": "Los obstetras no son solo profesionales médicos, sino también confidentes, consejeros y defensores de la salud y el bienestar de la madre y el niño",
-        "phrase2": "Realizado en Palmares entre el 15 y 22 de abril en El Colegio de Médicos de Occidente"
+        "phrase2": "Realizado en Palmares entre el 15 y 22 de abril en El Colegio de Médicos de Occidente",
+        "phrase3": "Curso Preparación al Parto, San Ramón junio 2023."
     },
     "conference": {
         "title": "Talleres Sexualidad Adolescentes 2013-2023"

@@ -11,7 +11,7 @@
         "developer": "¿Who created this Web?",
         "appointment": "Schedule Appointment",
         "advices": "Tips for pregnants",
-        "courses": "Palmares Course",
+        "courses": "Courses",
         "sexual_conferences": "Adolescent Sexuality Conferences"
     },
     "home": {
@@ -38,7 +38,7 @@
         "btn_qualify": "Qualify Service",
         "err": "please fill out all fields",
         "btn_recommendations": "See Recommendations",
-        "btn_courses": "See Palmares Course",
+        "btn_courses": "Watch Courses",
         "btn_conference": "Adolescent Sexuality Conference",
         "know_what": "Did you know ?",
         "know_text": "We give free courses to all pregnant women who want to attend on certain dates. In these courses through a conference, dialogue and constant exchange we educate ourselves, learn and examine them.",
@@ -143,10 +143,11 @@
         "text6_6": "Feel suffocated"
     },
     "courses": {
-        "title": "Palmares Childbirth Preparation Course",
+        "title": "Childbirth Preparation Courses",
         "phrase": "The professionalism of obstetricians is evident in their commitment to staying up-to-date with the latest medical advancements and techniques to ensure the safest and healthiest delivery possible",
         "phrase1": "Obstetricians are not just medical professionals, but also confidants, counselors, and advocates for the health and well-being of both mother and child",
-        "phrase2": "Held in Palmares between April 15 and 22 at the College of Western Physicians"
+        "phrase2": "Held in Palmares between April 15 and 22 at the College of Western Physicians",
+        "phrase3": "Childbirth Preparation Course, San Ramón June 2023."
     },
     "conference": {
         "title": "Adolescent Sexuality Conferences 2013-2023"

@@ -3,6 +3,7 @@
 /node_modules
 .env
 partos.sql
+site-nginx.config.txt
 
 # Logs
 logs
